@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Byrebank", "Byrebank\Byrebank.csproj", "{230BF79C-61D0-4412-8D3D-3452BCEE28CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230BF79C-61D0-4412-8D3D-3452BCEE28CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230BF79C-61D0-4412-8D3D-3452BCEE28CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230BF79C-61D0-4412-8D3D-3452BCEE28CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230BF79C-61D0-4412-8D3D-3452BCEE28CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F85E25-DE3D-4B08-97F7-EBC49FEB0326}
+	EndGlobalSection
+EndGlobal
