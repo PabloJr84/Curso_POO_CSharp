@@ -13,3 +13,18 @@ D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\CSharp\Byrebank\Byrebank\obj\
 D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.pdb
 D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.genruntimeconfig.cache
 D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\CSharp\Byrebank\Byrebank\obj\Debug\net6.0\ref\Byrebank.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\bin\Debug\net6.0\Byrebank.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\bin\Debug\net6.0\Byrebank.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\bin\Debug\net6.0\Byrebank.runtimeconfig.json
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\bin\Debug\net6.0\Byrebank.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\bin\Debug\net6.0\Byrebank.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\refint\Byrebank.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\Byrebank.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Byrebank\Byrebank\obj\Debug\net6.0\ref\Byrebank.dll
