@@ -33,6 +33,6 @@ Console.WriteLine("Titular: " + conta2.titular);
 Console.WriteLine("conta" + conta2.conta);
 Console.WriteLine("Numero Agencia: " + conta2.numero_agencia);
 Console.WriteLine("Nome da Agencia" + conta2.nome_agencia);
-
+Console.WriteLine("Salado   : " + conta1.saldo);
 
 Console.ReadLine();

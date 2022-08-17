@@ -1,7 +1,6 @@
-﻿namespace bytebank
-   
+﻿namespace Excercicio02
 {
-    public class ContaCorrente
+    public class Conta
     {
         public string titular;
         public string conta;
@@ -27,4 +26,5 @@
 
 
     }
+
 }
