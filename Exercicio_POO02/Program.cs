@@ -22,8 +22,8 @@ namespace Exercicio_POO02
             conta2.saldo = 100;
 
 
-            Console.WriteLine("Saldo da Amanda pré-saque: "+conta2.saldo);
-            conta2.Sacar(50);
+            Console.WriteLine("Saldo da Amanda pré-saque: R$ "+conta2.saldo);
+            conta2.Sacar(-50);
             Console.WriteLine("Saldo da Amanda pós-saque: R$" + conta2.saldo);
 
 

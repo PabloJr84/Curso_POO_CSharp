@@ -17,6 +17,10 @@
                 return false;
 
             }
+            if (valor <0)
+            {
+                return false;
+            }
             else
             {
                 saldo = saldo - valor;
