@@ -21,14 +21,20 @@
             {
                 return false;
             }
+
             else
             {
                 saldo = saldo - valor;
                 return true;
             }
+
+
         }
 
-
+        public void Depositar(double valor)
+        {
+            saldo = saldo + valor;
+        }
     }
 
 }

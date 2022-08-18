@@ -23,9 +23,14 @@ namespace Exercicio_POO02
 
 
             Console.WriteLine("Saldo da Amanda pré-saque: R$ "+conta2.saldo);
-            conta2.Sacar(-50);
-            Console.WriteLine("Saldo da Amanda pós-saque: R$" + conta2.saldo);
 
+            bool saque = conta2.Sacar(50);
+
+            Console.WriteLine(" Saque realizado ? " + saque);
+
+            Console.WriteLine("Saldo da Amanda pós-saque: R$" + conta2.saldo);
+            conta2.Depositar(60);
+            Console.WriteLine(" Saldo da Amanda pós-depósito: " + conta2.saldo);
 
 
 
