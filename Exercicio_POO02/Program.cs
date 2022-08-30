@@ -45,6 +45,7 @@ namespace Exercicio_POO02
             Console.WriteLine(" Saldo da Amanda pós-tranferêcia:R$ " + conta2.saldo);
             Console.WriteLine("Saldo do Marcelo pós-tranferência:R$ " + conta1.saldo);
 
+           
             Console.ReadLine();
 
 
