@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Jornada CSharp\\Byrebank\\Byrebank\\Byrebank.csproj",
-      "projectName": "Byrebank",
-      "projectPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Jornada CSharp\\Byrebank\\Byrebank\\Byrebank.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Jornada CSharp\\Byrebank\\Byrebank\\Bytebank.csproj",
+      "projectName": "Bytebank",
+      "projectPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Jornada CSharp\\Byrebank\\Byrebank\\Bytebank.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\Jornada CSharp\\Byrebank\\Byrebank\\obj\\",
       "projectStyle": "PackageReference",
