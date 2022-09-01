@@ -1,4 +1,5 @@
-﻿using bytebank;
+﻿using Byrebank;
+using bytebank;
 
 
 Console.WriteLine("Boas Vindas ao seu banco, ByteBank");
@@ -35,6 +36,12 @@ Console.WriteLine("Numero Agencia: " + conta2.numero_agencia);
 Console.WriteLine("Nome da Agencia" + conta2.nome_agencia);
 Console.WriteLine("Salado   : " + conta1.saldo);
 
+Cliente cliente = new Cliente();
+cliente.nome = "Andre Silva";
+cliente.cpf = "071866990";
+cliente.profissao = "Programador";
+
+Console.WriteLine("CPF: " + cliente.cpf);
 
 
 Console.ReadLine();
